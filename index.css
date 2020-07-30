@@ -1,7 +1,7 @@
 #container {
   width: 70%;
   margin: 20px auto;
-  border: 8px solid whitesmoke;
+  border: 8px solid antiquewhite;
   padding: 60px;
   overflow: auto;
   }
@@ -11,8 +11,17 @@ body {
 }
 
 h1 {
-  background-color : rgb(202, 171, 171);
+  background-color : antiquewhite;
   width: 37%;
   font-size: 40px;
   border: solid goldenrod;
+}
+h2 {
+  color: antiquewhite;
+}
+p {
+  color: antiquewhite;
+}
+li {
+  color: gold;
 }
