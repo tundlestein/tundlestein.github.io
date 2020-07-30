@@ -12,7 +12,7 @@ body {
     background-color:rgb(226, 211, 211);
     width:17%;
     font-size: 50px;
-    border: solid groove;
+    border: solid goldenrod;
     position: absolute;
     left: 100px;
     top: 150px;
@@ -23,5 +23,5 @@ body {
     font-size: 40px;
   }
   .links{
-      color: silver;
+      color: rgb(194, 192, 192);
   }
