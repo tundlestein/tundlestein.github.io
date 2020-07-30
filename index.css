@@ -1,21 +1,19 @@
 #container {
-    width: 70%;
-    margin: 20px auto;
-    border: 8px solid whitesmoke;
-    padding: 60px;
-    overflow: auto;
-    }
+  width: 70%;
+  margin: 20px auto;
+  border: 8px solid whitesmoke;
+  padding: 60px;
+  overflow: auto;
+  }
 
 body {
-    background-color: rgb(7, 7, 7);
-  }
+  background-color: rgb(7, 7, 7);
+}
 
-  h1 {
-    color: rgb(252, 249, 249);
-    width: 100%;
-    font-size: 40px;
-  }
-
-  .links{
-      color: rgb(194, 192, 192);
-  }
+h1 {
+  background : whitesmoke;
+  color: solid black;
+  width: 37%;
+  font-size: 40px;
+  border: solid goldenrod;
+}
