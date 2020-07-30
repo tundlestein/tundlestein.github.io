@@ -11,8 +11,7 @@ body {
 }
 
 h1 {
-  background : whitesmoke;
-  color: solid black;
+  background-color : rgb(202, 171, 171);
   width: 37%;
   font-size: 40px;
   border: solid goldenrod;
