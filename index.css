@@ -5,20 +5,17 @@
     padding: 60px;
     overflow: auto;
     }
+
 body {
     background-color: rgb(7, 7, 7);
   }
+
   h1 {
-    background-color:rgb(226, 211, 211);
-    width:17%;
-    font-size: 50px;
-    border: solid goldenrod;
-    }
-  .p1 {
     color: rgb(252, 249, 249);
-    width: 75%;
+    width: 100%;
     font-size: 40px;
   }
+
   .links{
       color: rgb(194, 192, 192);
   }
