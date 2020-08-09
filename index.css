@@ -11,10 +11,12 @@ body {
 }
 
 h1 {
-  color: gold;
-  width: 50%;
-  font-size: 40px;
-  border: solid goldenrod;
+  color: antiquewhite;
+  width: 48%;
+  font-size: 50px;
+  border: 2px solid goldenrod;
+  margin: auto;
+  padding-left: 12px;
 }
 h2 {
   color: antiquewhite;
@@ -24,4 +26,16 @@ h2 {
 }
 .links li {
   color: gold;
+}
+.img {
+  float: left;
+}
+.links {
+  border: ;
+  font-size: 30px;
+  width: 60%;
+  margin: left 100px;
+  float: left;
+  padding-top: 50px ;
+  padding-left: 41px;
 }
